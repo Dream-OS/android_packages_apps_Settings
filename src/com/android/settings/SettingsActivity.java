@@ -254,7 +254,7 @@ public class SettingsActivity extends Activity
             R.id.accessibility_settings,
             R.id.print_settings,
             R.id.home_settings,
-            R.id.status_bar_settings,
+            R.id.dream_control,
             R.id.dashboard,
             R.id.privacy_settings_cyanogenmod
     };
